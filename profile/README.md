@@ -16,4 +16,8 @@
 ## 기본 아키텍쳐
 
 First Draft
-![second drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/3fa25d67-ef56-4344-884f-c2b272f93732)
+![first drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/39b28a34-b269-45d6-b605-5e8b1706db8a)
+
+
+Second Draft - redis 추가
+![second drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/e30333cc-b1c1-4dd4-a2a7-da7ae3d92e5b)
