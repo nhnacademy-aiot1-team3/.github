@@ -15,3 +15,4 @@
 
 ## 기본 아키텍쳐
 
+![first drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/06c91373-3cc4-4f03-a87a-ba94ebccf517)
