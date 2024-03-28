@@ -16,4 +16,4 @@
 ## 기본 아키텍쳐
 
 First Draft
-![first drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/06c91373-3cc4-4f03-a87a-ba94ebccf517)
+![second drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/3fa25d67-ef56-4344-884f-c2b272f93732)
