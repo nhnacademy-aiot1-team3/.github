@@ -1,6 +1,6 @@
-# 최종 프로젝트 3팀
+# DATABO3 프로젝트(TEAM 3)
 
-3팀 프로젝트의 기본 페이지입니다.
+3팀 프로젝트의 메인 페이지입니다. 프로젝트의 정보를 여기서 확인할 수 있습니다.
 
 ## 팀 구성원
 | 이 름 |                 깃허브 주소                  | 
@@ -13,11 +13,18 @@
 | 이지현 | [GitHub](https://github.com/badgelatte) |
 | 정세인 |   [GitHub](https://github.com/SeinJs)   |
 
-## 기본 아키텍쳐
+## 목표
 
-First Draft
-![first drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/39b28a34-b269-45d6-b605-5e8b1706db8a)
+## 프로젝트 설명
 
+## 웹사이트 기능
 
-Second Draft - redis 추가
+## 개발 기술 스텍
+
+## 설계
+- DB ERD : 
+- 기본 아키텍쳐(초안)
 ![second drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/e30333cc-b1c1-4dd4-a2a7-da7ae3d92e5b)
+
+## API 명세서
+명세서 링크
