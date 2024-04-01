@@ -33,4 +33,4 @@
 ![second drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/e30333cc-b1c1-4dd4-a2a7-da7ae3d92e5b)
 
 ## API 명세서
-명세서 링크
+- ### [명세서](https://github.com/nhnacademy-aiot1-team3/.github/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
