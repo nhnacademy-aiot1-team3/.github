@@ -72,7 +72,6 @@
    <ul>
      <li>로그인 검증</li>
      <li>jwt 토큰 발급, 재발급</li>
-     <li></li>
    </ul>
    <br>
    
@@ -103,6 +102,7 @@
 ---
 
 ### 제어
+
  1. 스위치 
  2. 램프
 
@@ -111,6 +111,7 @@
 ### 추가 선택 사항
    - 사용하지 않는 기기 알려줌 -> 차단
 
+상세한 내용은 [여기](https://github.com/nhnacademy-aiot1-team3/.github/tree/master/profile/docs)에 있습니다.
 
 ## :wrench: 개발 기술 스텍
 
