@@ -146,5 +146,5 @@
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 
 ## :memo: 기타 문서
-- ### [WIKI 페이지]()
+- ### [WIKI 페이지](https://github.com/nhnacademy-aiot1-team3/.github/wiki)
 - ### [API 명세서](https://github.com/nhnacademy-aiot1-team3/.github/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
