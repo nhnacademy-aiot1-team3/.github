@@ -1,15 +1,11 @@
 # DATABO3 프로젝트 (TEAM 3)
 
 ## :busts_in_silhouette: 팀 구성원
-| 이 름 |                 깃허브 주소                  | 
-|:---:|:---------------------------------------:|
-| 강경훈 |  [GitHub](https://github.com/kkh5535)  |
-| 나채현 |  [GitHub](https://github.com/chaehyonNa)  |
-| 박상진 | [GitHub](https://github.com/Mizz1ove) |
-| 양현성 | [GitHub](https://github.com/HyeonSeon9) |
-| 윤인섭 | [GitHub](https://github.com/insub2004)  |
-| 이지현 | [GitHub](https://github.com/badgelatte) |
-| 정세인 |   [GitHub](https://github.com/SeinJs)   |
+
+| 강경훈 | 나채현 | 박상진 | 양현성 | 윤인섭 | 이지현 | 정세인 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![](https://avatars.githubusercontent.com/u/143977692?v=4) | ![](https://avatars.githubusercontent.com/u/111407310?v=4) | ![](https://avatars.githubusercontent.com/u/140796840?v=4) | ![](https://avatars.githubusercontent.com/u/95899916?v=4) | ![](https://avatars.githubusercontent.com/u/55538952?v=4) | ![](https://avatars.githubusercontent.com/u/141386540?v=4) | ![](https://avatars.githubusercontent.com/u/143979590?v=4) |
+|[GitHub](https://github.com/kkh5535)|[GitHub](https://github.com/chaehyonNa)|[GitHub](https://github.com/Mizz1ove)|[GitHub](https://github.com/HyeonSeon9)|[GitHub](https://github.com/insub2004)|[GitHub](https://github.com/badgelatte)|[GitHub](https://github.com/SeinJs)|
 
 ## :dart: 목표
 
