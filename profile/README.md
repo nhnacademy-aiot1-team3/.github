@@ -21,9 +21,9 @@
 
 ## :classical_building: 설계
 
-- DB ERD : 
-- 기본 아키텍쳐(초안)
-![second drawio](https://github.com/nhnacademy-aiot1-team3/.github/assets/143979590/e30333cc-b1c1-4dd4-a2a7-da7ae3d92e5b)
+- **기본 아키텍쳐**
+
+![third diagram](images/architecture-diagram-ver-3.png)
 
 ## :globe_with_meridians: 기능
 
