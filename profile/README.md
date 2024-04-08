@@ -109,9 +109,11 @@
 ---
 
 ### 추가 선택 사항
+
    - 사용하지 않는 기기 알려줌 -> 차단
 
-상세한 내용은 [여기](https://github.com/nhnacademy-aiot1-team3/.github/tree/master/profile/docs)에 있습니다.
+
+**상세한 내용은 [여기](https://github.com/nhnacademy-aiot1-team3/.github/blob/master/profile/docs/%EC%83%81%EC%84%B8%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.md)에 있습니다.**
 
 ## :wrench: 개발 기술 스텍
 
