@@ -19,7 +19,7 @@
 
 - **기본 아키텍쳐**
 
-![third diagram](https://github.com/nhnacademy-aiot1-team3/.github/blob/master/profile/images/architecture-diagram-ver-3.png)
+![fourth diagram](https://github.com/nhnacademy-aiot1-team3/.github/blob/master/profile/images/architecture-diagram-ver-4.png)
 
 ## :globe_with_meridians: 기능
 
