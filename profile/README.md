@@ -4,8 +4,8 @@
 
 | 강경훈 | 나채현 | 박상진 | 양현성 | 윤인섭 | 이지현 | 정세인 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![](https://avatars.githubusercontent.com/u/143977692?v=4) | ![](https://avatars.githubusercontent.com/u/111407310?v=4) | ![](https://avatars.githubusercontent.com/u/140796840?v=4) | ![](https://avatars.githubusercontent.com/u/95899916?v=4) | ![](https://avatars.githubusercontent.com/u/55538952?v=4) | ![](https://avatars.githubusercontent.com/u/141386540?v=4) | ![](https://avatars.githubusercontent.com/u/143979590?v=4) |
-|[GitHub](https://github.com/kkh5535)|[GitHub](https://github.com/chaehyonNa)|[GitHub](https://github.com/Mizz1ove)|[GitHub](https://github.com/HyeonSeon9)|[GitHub](https://github.com/insub2004)|[GitHub](https://github.com/badgelatte)|[GitHub](https://github.com/SeinJs)|
+| ![](https://avatars.githubusercontent.com/u/143977692?v=4) | ![](https://avatars.githubusercontent.com/u/111407310?v=4) | ![](https://avatars.githubusercontent.com/u/140796840?v=4) | ![](https://avatars.githubusercontent.com/u/95899916?v=4) | ![](https://avatars.githubusercontent.com/u/55538952?v=4) | ![](https://avatars.githubusercontent.com/u/141386540?v=4) | ![](https://avatars.githubusercontent.com/u/143979590?v=4) | ![](https://avatars.githubusercontent.com/u/112842467?v=4) |
+|[GitHub](https://github.com/kkh5535)|[GitHub](https://github.com/chaehyonNa)|[GitHub](https://github.com/Mizz1ove)|[GitHub](https://github.com/HyeonSeon9)|[GitHub](https://github.com/insub2004)|[GitHub](https://github.com/badgelatte)|[GitHub](https://github.com/SeinJs)|[GitHub](https://github.com/JongbeenPark)|
 
 ## :memo: 중요한 문서
 - ### [WIKI 페이지](https://github.com/nhnacademy-aiot1-team3/.github/wiki)
