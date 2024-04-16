@@ -7,6 +7,10 @@
 | ![](https://avatars.githubusercontent.com/u/143977692?v=4) | ![](https://avatars.githubusercontent.com/u/111407310?v=4) | ![](https://avatars.githubusercontent.com/u/140796840?v=4) | ![](https://avatars.githubusercontent.com/u/95899916?v=4) | ![](https://avatars.githubusercontent.com/u/55538952?v=4) | ![](https://avatars.githubusercontent.com/u/141386540?v=4) | ![](https://avatars.githubusercontent.com/u/143979590?v=4) |
 |[GitHub](https://github.com/kkh5535)|[GitHub](https://github.com/chaehyonNa)|[GitHub](https://github.com/Mizz1ove)|[GitHub](https://github.com/HyeonSeon9)|[GitHub](https://github.com/insub2004)|[GitHub](https://github.com/badgelatte)|[GitHub](https://github.com/SeinJs)|
 
+## :memo: 중요한 문서
+- ### [WIKI 페이지](https://github.com/nhnacademy-aiot1-team3/.github/wiki)
+- ### [API 명세서](https://github.com/nhnacademy-aiot1-team3/.github/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
+  
 ## :dart: 목표
 
 사무실의 쾌적한 상태를 유지하기 위한 에너지 효율 관리 서비스를 개발하는 것이 우리 팀의 목표입니다. 이 서비스는 현재 사무실의 환경 상태를 실시간으로 모니터링하고, 사용자가 원하는 설정 값에 따라 자동으로 제어할 수 있는 기능을 제공합니다. 이를 통해 에너지 소비를 최적화하고, 효율적인 사무실 환경을 유지할 수 있도록 합니다.
@@ -529,6 +533,3 @@ Queue
 - ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 
-## :memo: 기타 문서
-- ### [WIKI 페이지](https://github.com/nhnacademy-aiot1-team3/.github/wiki)
-- ### [API 명세서](https://github.com/nhnacademy-aiot1-team3/.github/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
