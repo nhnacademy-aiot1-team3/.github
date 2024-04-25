@@ -10,7 +10,7 @@
 ## :memo: 중요한 문서
 - ### [WIKI 페이지](https://github.com/nhnacademy-aiot1-team3/.github/wiki)
 - ### [API 명세서](https://github.com/nhnacademy-aiot1-team3/.github/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
-- ### [로드맵](https://github.com/orgs/nhnacademy-aiot1-team3/projects/5/views/3)
+- ### [로드맵](https://docs.google.com/spreadsheets/d/1YqwhYOUfoeq6wLenFOB-whe454M5sj2ZTO-KG4r63vk/edit?usp=sharing)
   
 ## :dart: 목표
 
