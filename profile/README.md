@@ -82,3 +82,4 @@
 ![intellijidea](https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-005F0F?style=flat&logo=nginx&logoColor=white)
