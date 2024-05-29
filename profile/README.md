@@ -25,7 +25,7 @@
 
 - **기본 아키텍쳐**
 
-![seventh diagram](https://github.com/nhnacademy-aiot1-team3/.github/blob/main/profile/images/architecture-diagram-ver-7.png)
+![seventh diagram](https://github.com/nhnacademy-aiot1-team3/.github/blob/main/profile/images/architecture-diagram-ver-8.png)
 
 - **상세 아키텍쳐**
 
